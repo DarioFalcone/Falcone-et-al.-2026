@@ -1,1 +1,2 @@
-# Code for Cloudy Circulations and the Role of Convective Coupling in their Alter
+# Code for dealized Cumulus Cloud-Scale Motions and the Dynamics of Isolated and
+Coupled Flows
